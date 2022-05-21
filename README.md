@@ -1,7 +1,5 @@
-- 👋 Hi, I’m Jace Woodard
-- 👀 I’m interested in full stack web development
-- 🌱 I’m currently learning CSS and Javascript using The Odin Project
-- 📫 You can reach me at woodardjacework@gmail.com
+My first github repo!
+Hello Odin!
 
 <!---
 woodardjace12/woodardjace12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
